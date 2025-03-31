@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "fae9a9ab7abe90ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f4b36619506e7c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96336b38d982f6fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60153db7e7eff914",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b1eb84097a5c428",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d09b9d2aabf8657",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6fa2a340807a8d27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Homework/Homework5.md"
+              },
+              "icon": "lucide-list",
+              "title": "Homework5 的大纲"
+            }
+          },
+          {
+            "id": "633966463c931bb7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "TLB",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.50490188598633
+  },
+  "right": {
+    "id": "0243ca5a6da974ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "e46f1e85556e8876",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84e0a251c86004c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Chapter5/5.1 存储概述.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "5.1 存储概述 的反向链接列表"
+            }
+          },
+          {
+            "id": "17da1ade90227186",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "期末.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "期末 的出链列表"
+            }
+          },
+          {
+            "id": "3c802be784f330ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c53873b8de4540cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "canvas:新建白板": false
+    }
+  },
+  "active": "96336b38d982f6fa",
+  "lastOpenFiles": [
+    "未命名.md",
+    "Contents/第六章 输入输出系统.md",
+    "Files/Chapter06/第六章 输入输出系统.pdf",
+    "Contents/目录.md",
+    "Contents/第一章 计算机抽象及相关技术.md",
+    "Notes/Chapter1/1.1 引言.md",
+    "Notes/Chapter2/2.7 其他知识.md",
+    "Files/Textbook/计算机组成与设计：硬件／软件接口 RISC-V版（原书第2版）.pdf",
+    "期末.md",
+    "Notes/Chapter3/3.5 其他知识.md",
+    "Notes/Chapter2/2.4 计算机硬件对过程 (函数) 的支持.md",
+    "Notes/Chapter2/2.1 简介.md",
+    "Notes/Chapter4/4.3 流水线CPU.md",
+    "Contents/第二章 计算机指令.md",
+    "Contents/第四章 处理器.md",
+    "Notes/Chapter4/4.1 单周期CPU数据通路.md",
+    "Notes/Chapter5/5.3 内存可靠性与虚拟内存.md",
+    "Notes/Chapter5/5.2 缓存.md",
+    "Notes/Chapter5/5.1 内存概述.md",
+    "Homework/Homework5.md",
+    "Contents/第五章 多层次存储.md",
+    "Homework/Homework1.md",
+    "Homework/其他内容.md",
+    "Contents/第三章 计算机的算术运算.md",
+    "Homework/Homework4.md",
+    "Notes/Chapter3/3.4 浮点数运算.md",
+    "Notes/Chapter3/3.2 整数乘除运算.md",
+    "Notes/Chapter4/4.4 流水线冒险的检测与处理.md",
+    "Picture/image-20241011124325948.png",
+    "Files/Chapter05/Chapter_05-2024-B.pdf",
+    "Files/计算机组成与设计：硬件／软件接口 RISC-V版（原书第2版）.pdf",
+    "Picture/Pasted image 20241213115026.png",
+    "Picture/Pasted image 20241213114923.png",
+    "Picture/Pasted image 20241213114905.png",
+    "Picture/Pasted image 20241213114817.png",
+    "Picture/Pasted image 20241213114545.png",
+    "Picture/Pasted image 20241213113621.png",
+    "Picture/Pasted image 20241213105958.png",
+    "Files/Chapter05/Chapter_05-2 cache performance & ECC.pdf",
+    "Picture/Pasted image 20241212231205.png",
+    "Picture/Pasted image 20241212231149.png",
+    "Files/Chapter05/Chapter_05-1 memory hierarchy & cache简化版.pdf",
+    "Files.zip",
+    "计算机组成与设计：硬件／软件接口 RISC-V版（原书第2版）.pdf",
+    "Files/Chapter04/Chapter_04-part3-pipelined CPU-detail.pdf",
+    "Picture/未标题-1-恢复的.psd",
+    "Notes/Chapter3/未命名.canvas",
+    "未命名.canvas"
+  ]
+}
