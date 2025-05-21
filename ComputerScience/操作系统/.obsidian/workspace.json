@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "fae9a9ab7abe90ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "82239923a37290e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11a07a0681d36591",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "OS_Files/第1章 导论1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第1章 导论1"
+            }
+          },
+          {
+            "id": "e593a76b452cea01",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "OS_Files/第1章 导论2.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第1章 导论2"
+            }
+          },
+          {
+            "id": "fe4536ecfbc9da91",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "OS_Files/第2章 操作系统结构.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第2章 操作系统结构"
+            }
+          }
+        ]
+      },
+      {
+        "id": "8b98115ff80c3998",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07e88a84a236e424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS_Notes/OS_Chapter01/1.2 操作系统特点.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2 操作系统特点"
+            }
+          },
+          {
+            "id": "b0e0aac4a0c1a679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OS_Notes/OS_Chapter01/1.2 操作系统发展.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.2 操作系统发展"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60153db7e7eff914",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b1eb84097a5c428",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d09b9d2aabf8657",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6fa2a340807a8d27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OS_Notes/OS_Chapter01/1.2 操作系统发展.md"
+              },
+              "icon": "lucide-list",
+              "title": "1.2 操作系统发展 的大纲"
+            }
+          },
+          {
+            "id": "633966463c931bb7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "TLB",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.50490188598633
+  },
+  "right": {
+    "id": "0243ca5a6da974ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "e46f1e85556e8876",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84e0a251c86004c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Chapter5/5.1 存储概述.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "5.1 存储概述 的反向链接列表"
+            }
+          },
+          {
+            "id": "17da1ade90227186",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "期末.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "期末 的出链列表"
+            }
+          },
+          {
+            "id": "3c802be784f330ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c53873b8de4540cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "canvas:新建白板": false
+    }
+  },
+  "active": "4d09b9d2aabf8657",
+  "lastOpenFiles": [
+    "OS_Files/第13-15章 文件系统.pdf",
+    "OS_Files/第12章 IO系统.pdf",
+    "OS_Files/第11章 大容量存储器结构.pdf",
+    "OS_Files/第10章 虚拟内存.pdf",
+    "OS_Files/第1章 导论1.pdf",
+    "OS_Notes/OS_Chapter01/1.2 操作系统发展.md",
+    "OS_Picture/Pasted image 20250415160835.png",
+    "OS_Notes/OS_Chapter01/1.2 操作系统特点.md",
+    "OS_Contents/第一章 导论.md",
+    "OS_Notes/OS_Chapter01/1.1 操作系统概述.md",
+    "OS_Files/第2章 操作系统结构.pdf",
+    "OS_Files/第8章 死锁.pdf",
+    "OS_Files/第1章 导论2.pdf",
+    "OS_Files/第3章 进程1.pdf",
+    "OS_Files/第3章 进程2.pdf",
+    "OS_Picture/Pasted image 20250414203723.png",
+    "OS_Picture",
+    "未命名.md",
+    "课堂练习 1.md",
+    "OS_Contents/目录.md",
+    "OS_Homework/Homework1.md",
+    "Contents/第二章 微处理器.md",
+    "Notes/Chapter02/2.1 8086微处理器.md",
+    "Contents/目录.md",
+    "Contents/第一章 微机基础知识.md",
+    "Notes/Chapter01/1.2 微型计算机系统组成.md",
+    "Picture/Pasted image 20250217082438.png",
+    "Notes/Chapter01/1.3计算机中的数制和编码.md",
+    "Notes/Chapter01/1.1 微型计算机概述.md",
+    "赛前准备/赛道解析.md",
+    "赛前准备/赛道.md",
+    "数字老师和ai助教.md",
+    "知识图谱和学习路径规划.md",
+    "赛前准备/赛前准备阶段.md",
+    "Picture/Pasted image 20250213183732.png",
+    "总索引.md",
+    "赛前准备阶段.md",
+    "期末.md",
+    "Notes/Chapter3/3.5 其他知识.md",
+    "Notes/Chapter2/2.4 计算机硬件对过程 (函数) 的支持.md",
+    "Picture/image-20241011124325948.png",
+    "Picture/Pasted image 20241213115026.png",
+    "Picture/Pasted image 20241213114923.png",
+    "Picture/Pasted image 20241213114905.png",
+    "Picture/Pasted image 20241213114817.png",
+    "Picture/Pasted image 20241213114545.png",
+    "Notes/Chapter3/未命名.canvas",
+    "未命名.canvas"
+  ]
+}
