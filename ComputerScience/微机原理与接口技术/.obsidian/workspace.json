@@ -11,24 +11,6 @@
             "id": "c7f7637df7d5ac02",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MCU_Files/第2章-微处理器.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "第2章-微处理器"
-            }
-          }
-        ]
-      },
-      {
-        "id": "25f72539863d0279",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cfdcf09598ff9106",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "考试准备.md",
@@ -38,6 +20,18 @@
               },
               "icon": "lucide-file",
               "title": "考试准备"
+            }
+          },
+          {
+            "id": "d17c68715c11158e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "MCU_Files/第4章-汇编语言程序设计.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "第4章-汇编语言程序设计"
             }
           }
         ]
@@ -181,53 +175,54 @@
       "canvas:新建白板": false
     }
   },
-  "active": "cfdcf09598ff9106",
+  "active": "c7f7637df7d5ac02",
   "lastOpenFiles": [
-    "MCU_Files/微机原理与接口技术（第2版）_(李珍香)_(Z-Library).pdf",
-    "考试准备.md",
-    "MCU_Notes/Chapter02/2.1 8086微处理器.md",
-    "MCU_Files/第2章-微处理器.pdf",
-    "MCU_Picture/Pasted image 20250506153923.png",
-    "MCU_Picture/Pasted image 20250506153043.png",
-    "MCU_Contents/第2章 微处理器.md",
-    "MCU_Picture/Pasted image 20250506150932.png",
-    "MCU_Picture/Pasted image 20250506150926.png",
-    "MCU_Picture/Pasted image 20250506150908.png",
-    "MCU_Picture/Pasted image 20250506150748.png",
-    "MCU_Contents/目录.md",
-    "MCU_Files/第8章-中断技术.pdf",
-    "MCU_Contents/第4章 汇编语言程序设计.md",
-    "MCU_Contents/第10章 DMA控制器8237A.md",
-    "MCU_Contents/第8章 中断技术.md",
-    "MCU_Contents/第3章 寻址方式与指令系统.md",
-    "MCU_Contents/第7章 输入输出技术.md",
     "MCU_Files/第10章-DMA控制器8237A.pdf",
+    "~WRL0929.tmp",
+    "~WRD0922.tmp",
+    "考试准备.md",
+    "MCU_Files/第8章-中断技术.pdf",
+    "MCU_Files/第3章-寻址方式与指令系统.pdf",
+    "MCU_Files/第4章-汇编语言程序设计.pdf",
+    "~WRL1537.tmp",
+    "~WRD1529.tmp",
     "MCU_Notes/Chapter08/8.4 8259A在微机中的编程应用.md",
-    "MCU_Notes/Chapter01/1.1 微型计算机概述.md",
-    "MCU_Notes/Chapter10/10.1 8237A的组成与工作原理.md",
-    "MCU_Notes/Chapter10/10.2 8237A的编程和应用举例.md",
-    "MCU_Notes/Chapter08/8.3 可编程中断控制器8259A.md",
-    "MCU_Notes/Chapter08/8.2 8086CPU的中断系统.md",
-    "MCU_Notes/Chapter08/8.1 中断基础.md",
-    "MCU_Notes/Chapter01/1.2 微型计算机系统组成.md",
-    "MCU_Notes/Chapter10",
-    "MCU_Notes/Chapter08",
-    "MCU_Files/msoF5FE.tmp",
-    "MCU_Files/msoCA4A.tmp",
-    "MCU_Files/~$第10章-DMA控制器8237A.pptx",
-    "MCU_Files/msoFD6.tmp",
-    "MCU_Notes/Chapter01/1.3计算机中的数制和编码.md",
-    "MCU_Picture/5YH})P{_BNDM)VYPE6`)6BT.jpg",
-    "MCU_Picture/Pasted image 20250310170545.png",
-    "MCU_Contents/第一章 微机基础知识.md",
-    "MCU_Picture/Pasted image 20250310090102.png",
+    "~$开卷.docx",
     "MCU_Notes/Chapter07/7.3 CPU与外设间的数据传送方式.md",
-    "MCU_Notes/Chapter07/7.2 IO端口.md",
+    "MCU_Contents/第7章 输入输出技术.md",
     "MCU_Notes/Chapter07/7.1 IO接口概述.md",
-    "MCU_Notes/Chapter04/4.6 汇编语言程序设计.md",
-    "MCU_Notes/Chapter04/4.5 DOS系统功能调用.md",
-    "MCU_Notes/Chapter04/4.4 调试工具Debug.md",
-    "Picture/Pasted image 20250217082438.png",
+    "MCU_Notes/Chapter04/4.4 汇编语言程序设计.md",
+    "MCU_Contents/第4章 汇编语言程序设计.md",
+    "MCU_Notes/Chapter04/4.1 汇编语言源程序.md",
+    "MCU_Contents/目录.md",
+    "MCU_Contents/第3章 寻址方式与指令系统.md",
+    "MCU_Notes/Chapter03/3.3 8086CPU指令系统.md",
+    "MCU_Notes/Chapter03/3.2 寻址方式.md",
+    "MCU_Notes/Chapter03/3.1 指令系统概述.md",
+    "~WRL0001.tmp",
+    "MCU_Notes/Chapter02/2.2 8086CPU的存储器组织及IO结构.md",
+    "MCU_Notes/Chapter02/2.3 8086微处理器的外部引脚及工作模式.md",
+    "MCU_Notes/Chapter02/2.1 8086微处理器.md",
+    "MCU_Contents/第2章 微处理器.md",
+    "MCU_Notes/Chapter02/2.4 8086 微处理器的总线操作与时序.md",
+    "MCU_Notes/Chapter08/8.3 可编程中断控制器8259A.md",
+    "MCU_Files/第2章-微处理器.pdf",
+    "开卷A4.md",
+    "MCU_Picture/Pasted image 20250528083504.png",
+    "MCU_Picture/Pasted image 20250526214803.png",
+    "MCU_Contents/第8章 中断技术.md",
+    "MCU_Notes/Chapter08/8.2 8086CPU的中断系统.md",
+    "MCU_Picture/Pasted image 20250526212847.png",
+    "MCU_Picture/Pasted image 20250526205735.png",
+    "MCU_Picture/Pasted image 20250526205501.png",
+    "MCU_Picture/Pasted image 20250526202121.png",
+    "MCU_Notes/Chapter08/8.1 中断基础.md",
+    "MCU_Picture/Pasted image 20250525153747.png",
+    "MCU_Picture/Pasted image 20250525153702.png",
+    "MCU_Picture/Pasted image 20250525153523.png",
+    "MCU_Picture/Pasted image 20250525153203.png",
+    "MCU_Notes/Chapter07/7.2 IO端口.md",
+    "MCU_Notes/Chapter04/4.3 DOS系统功能调用.md",
     "Notes/Chapter3/未命名.canvas",
     "未命名.canvas"
   ]
