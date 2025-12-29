@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "fae9a9ab7abe90ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ee7c3269f5ec48c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "155647b7b5a508a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CN_Notes/Chapter4/4.2 IPv4.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.2 IPv4"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60153db7e7eff914",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b1eb84097a5c428",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d09b9d2aabf8657",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "6fa2a340807a8d27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CN_Notes/Chapter4/4.2 IPv4.md"
+              },
+              "icon": "lucide-list",
+              "title": "4.2 IPv4 的大纲"
+            }
+          },
+          {
+            "id": "633966463c931bb7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217.50432205200195
+  },
+  "right": {
+    "id": "0243ca5a6da974ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "e46f1e85556e8876",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84e0a251c86004c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/Chapter5/5.1 存储概述.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "5.1 存储概述 的反向链接列表"
+            }
+          },
+          {
+            "id": "17da1ade90227186",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "期末.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "期末 的出链列表"
+            }
+          },
+          {
+            "id": "3c802be784f330ad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c53873b8de4540cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "canvas:新建白板": false
+    }
+  },
+  "active": "155647b7b5a508a3",
+  "lastOpenFiles": [
+    "期末-merged.md",
+    "CN_Notes/Chapter5/5.2 UDP.md",
+    "CN_Notes/Chapter4/4.2 IPv4.md",
+    "期末/Chapter4-merged.md",
+    "CN_Picture/Pasted image 20251230012552.png",
+    "CN_Picture/Pasted image 20251230012513.png",
+    "CN_Notes/Chapter4/4.3 IPv6.md",
+    "期末/Chapter3-merged.md",
+    "期末/Chapter4-merged.md",
+    "CN_Contents/第四章 网络层.md",
+    "CN_Notes/Chapter4/4.4 路由算法与路由协议.md",
+    "CN_Picture/Pasted image 20251230003018.png",
+    "期末/Chapter1-merged.md",
+    "CN_Contents/目录.md",
+    "CN_Picture/Pasted image 20251229223040.png",
+    "CN_Picture/Pasted image 20251229144504.png",
+    "CN_Picture/Pasted image 20251229222035.png",
+    "CN_Picture/Pasted image 20251229222340.png",
+    "CN_Picture/Pasted image 20251229214237.png",
+    "CN_Picture/Pasted image 20251228173029.png",
+    "CN_Picture/Pasted image 20251228165703.png",
+    "期末/Chapter5-merged.md",
+    "CN_Notes/Chapter5/5.3 TCP.md",
+    "CN_Notes/Chapter5/5.1 传输层的功能.md",
+    "CN_Notes/Chapter4/4.1 网络层的功能.md",
+    "CN_Contents/第六章 应用层.md",
+    "CN_Notes/Chapter6/6.3 文件传输协议.md",
+    "CN_Contents/第一章 概述.md",
+    "CN_Notes/Chapter1/1.6计算机网络体系结构.md",
+    "CN_Notes/Chapter3/3.4 介质访问控制.md",
+    "期末/Chapter6-merged.md",
+    "期末",
+    "期末.md",
+    "期末/Chapter2-merged.md",
+    "总结-merged.md",
+    "总结/7.8.md",
+    "总结/6.md",
+    "总结",
+    "CN_Notes/Chapter5",
+    "CN_Files/计算机网络B班PPT/~$计算机网络第8版第1章-概述.pptx",
+    "CN_Files/计算机网络B班PPT/计算机网络第8版第7章 网络安全.pptx",
+    "CN_Files/计算机网络B班PPT/计算机网络第8版第9章 无线网络和移动网络.pptx",
+    "CN_Files/计算机网络B班PPT/计算机网络第8版第6章-应用层.pptx",
+    "CN_Files/计算机网络B班PPT/计算机网络第8版第5章-运输层.pptx",
+    "CN_Files/计算机网络B班PPT/计算机网络第8版第4章-网络层.pptx",
+    "CN_Files/计算机网络B班PPT/计算机网络第8版第3章-补充基本链路控制规程.pptx",
+    "未命名.canvas",
+    "Notes/Chapter3/未命名.canvas"
+  ]
+}

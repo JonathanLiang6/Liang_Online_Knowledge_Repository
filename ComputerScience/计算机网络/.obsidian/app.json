@@ -1,0 +1,21 @@
+{
+  "defaultViewMode": "source",
+  "readableLineLength": false,
+  "autoPairMarkdown": true,
+  "showLineNumber": false,
+  "vimMode": false,
+  "showIndentGuide": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": false,
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "CN_Picture",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 70
+  }
+}
